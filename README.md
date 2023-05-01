@@ -1,4 +1,4 @@
-# Js-ex---beginner
+# Basic js game.
 
 The game is a simple but engaging activity designed to challenge players to click on a button as many times as possible within a 10-second time limit. The player's objective is to score as many points as possible by clicking the button repeatedly before the time runs out. The game is ideal for young children between the ages of 5 and 7, as it helps them learn to recognize and differentiate between colors.
 
