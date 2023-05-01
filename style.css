@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: dodgerblue;
+    color: aquamarine;
+}
+
+.container_main {
+    display: flex;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:center;
+    padding: 2em;
+    background: rgb(95, 173, 250);
+    border: 1px solid black;
+}
+
+.game_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    padding-top: 1em;
+}
+
+#button {
+    width: 100px;
+    height: 40px;
+    background: crimson;
+    color: aquamarine;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#button:hover {
+    background:rgb(240, 100, 128);
+    color:rgb(106, 238, 194);
+}
+
+#button:active {
+    background: crimson;
+    color: aquamarine;
+}
